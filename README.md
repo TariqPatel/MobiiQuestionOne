@@ -1,0 +1,2 @@
+# MobiiQuestionOne
+Unique string algorithm
